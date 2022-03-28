@@ -1,3 +1,4 @@
+
 <h1 align="left">Hello!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor!</h1>
 <p align="left"></p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
@@ -6,6 +7,8 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/victor-kau%C3%AA-gon%C3%A7alves-b37385220/)
 
+<br><br>
+<br><br>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
