@@ -1,24 +1,33 @@
-<h1 align="left">Olá, eu sou o Victor!</h1>
+Hi 👋 My name is Victor Kauê
+============================
 
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+Front-end Developer
+-------------------
 
+passionate about technology 💜
 
-- 🌱  I’m currently learning **JavaScript, ReactJS, NodeJS**
+* 🌍  I'm based in Teresina PI, Brazil
+* ✉️  You can contact me at [victorkauedev22@gmail.com](mailto:victorkauedev22@gmail.com)
+* 🧠  I'm learning ReactJs, JavaScript, NodeJs
+* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/victor-kau%C3%AA-gon%C3%A7alves-b37385220/)
+### Skills
 
-<br>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
-## 🛠 &nbsp;Tech Stack
+### Socials
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="left"> <a href="https://www.github.com/vtrkaue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vtrkaue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-kauê-gonçalves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
@@ -27,12 +36,3 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vtkaue&show_icons=true&theme=nightowl" alt="vitor's stats"/>
 </p>
 
-##
-
-<p align="center" style="background:blue">
-  <p align="center" style="background:blue">
-<a href="https://web.whatsapp.com/send?phone=+558699576-4603&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(86)99576--4603-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
-<a href="https://www.linkedin.com/in/victor-kau%C3%AA-gon%C3%A7alves-b37385220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Victor Kauê Gonçalves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=international"></a> &nbsp;
-<a href="mailto: victorkaue13@hotmail.com"><img src="https://img.shields.io/badge/Email-victorkaue13@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-</p>
-</p>
