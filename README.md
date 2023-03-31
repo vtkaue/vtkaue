@@ -7,7 +7,7 @@ Front-end Developer
 passionate about technology 💜
 
 * 🌍  I'm based in Teresina PI, Brazil
-* ✉️  You can contact me at [victorkauedev22@gmail.com](mailto:victorkauedev22@gmail.com)
+* ✉️  You can contact me at [victorkaueoficila@gmail.com](mailto:victorkaueoficila@gmail.com)
 * 🧠  I'm learning ReactJs, JavaScript, NodeJs
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
 
