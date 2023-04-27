@@ -9,7 +9,7 @@ passionate about technology 💜
 * 🌍  I'm based in Teresina PI, Brazil
 * ✉️  You can contact me at [victorkaueoficial@gmail.com](mailto:victorkaueoficial@gmail.com)
 * 🧠  I'm learning ReactJs, JavaScript, NodeJs
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
+* 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
